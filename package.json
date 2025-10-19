@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Una aplicación web moderna de biblioteca digital con almacenamiento local, temas personalizables y acceso sin autenticación.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^12.4.0",
+    "firebase-tools": "^14.20.0"
+  }
+}
